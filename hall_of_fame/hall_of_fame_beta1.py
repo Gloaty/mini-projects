@@ -1,0 +1,6 @@
+print("Welcome to the technology Hall of Fame! This place hosts a slew of information about many technological ")
+print("geniuses. At the moment, we have three people. They are Barbara Liskov, Elon Musk, and Alan Turing. ")
+print("They have been attributed numbers ranging from 1 to 3. Enter the number to read their fact file. ")
+print("1 = Barbara Liskov")
+print("2 = Elon Musk")
+print("3 = Alan Turing")

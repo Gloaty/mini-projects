@@ -1,0 +1,11 @@
+import random
+n = random.randrange(100, 0, -1)
+s = random.randrange(100, 0, -1)
+u = int(n) + int(s)
+m = random.randrange(10, 0, -1)
+l = int(u) / int(m)
+y = random.randrange(50, 0, -1)
+t = int(l) * int(y)
+b = random.randrange(1000, 0, -1)
+a = int(t) - int(b)
+print("Absolute value of integer is: ", abs(a))

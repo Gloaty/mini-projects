@@ -1,0 +1,3 @@
+# random_number_generator
+This program is designed to, as the name suggests, create a random number. I do this by creating ranges, and performing mathematical equations to near - guarantee that you will never get the same number twice. Every equation is performed by the initial number, and a random number selected from another range. As of writing, there are 4 or 5 equations the number must pass before being displayed. I have also added an abs() command, which turns a negative number into the positive version of that same number. The abs() command should work on every number, but if you run it and get a negative number, email me and I'll do what I can to fix it. Thank you! 
+Email Address: On Profile Page, 20charw@seahamhighschool.com
